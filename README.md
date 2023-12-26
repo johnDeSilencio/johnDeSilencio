@@ -1,4 +1,6 @@
-### Nicholas R. Smith
+## Welcome to my profile!
+
+## Who am I?
 
 - 🗺️  Living in Pullman, WA, USA
 - 🔌 Working at Schweitzer Engineer Laboratories, Inc.
