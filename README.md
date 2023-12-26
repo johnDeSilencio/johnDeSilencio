@@ -1,6 +1,4 @@
-## Welcome to my profile!
-
-## Who am I?
+## Welcome to my profile! So, who am I?
 
 - 🗺️  Living in Pullman, WA, USA
 - 🔌 Working at Schweitzer Engineer Laboratories, Inc.
