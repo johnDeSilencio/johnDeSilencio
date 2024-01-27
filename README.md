@@ -3,5 +3,5 @@
 - 🗺️  Living in Pullman, WA, USA
 - 🔌 Working at Schweitzer Engineer Laboratories, Inc.
 - 🇻🇦 Confirmed Roman Catholic
-- 🏀 Alma mater: Gonzaga University
+- 🏀 _Alma mater_: Gonzaga University
 - 🦀 Passionate about Rust
