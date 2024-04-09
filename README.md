@@ -4,4 +4,4 @@
 - 🔌 Working at Schweitzer Engineer Laboratories, Inc.
 - 🇻🇦 Confirmed Roman Catholic
 - 🎓 _Alma mater_: Gonzaga University
-- 🐻 Passionate about Rust
+- 🐨 Passionate about Rust
